@@ -9,4 +9,4 @@ Pronouncition: (ˈmɑːməˌlaɪz)
 
 *noun*
 
-* My take on CSS normalization.
+* My take on CSS normalization, used to start all my projects.
